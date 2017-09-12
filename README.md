@@ -14,8 +14,8 @@ That’s it, now simply RUN the program..
 
 Highlights of the program :
 1. Automates the tasks to study how accuracy depends on the value of k.
-2. Can run any 10-dobscv dataset on Keel
-3. Plot graphs do illustrate accuracy for different datasets and K values
+2. Can evaluate accuracy of KNN on any 10-dobscv dataset on Keel
+3. Plot graphs to illustrate accuracy for different datasets and K values
 4. Intelligently use information contained in the @attribute field to select the most appropriate
 distance metric
 5. There is an option to run the program directly using command line arguments besides the command line menu that appears on running the program directly
