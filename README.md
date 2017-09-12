@@ -20,7 +20,7 @@ Highlights of the program :
 distance metric
 5. There is an option to run the program directly using command line arguments besides the command line menu that appears on running the program directly
 
-Refer the README pdf for steps with screenshots on running the program
+Refer the README pdf for more detailed steps with screenshots on running the program
 
 Datasets used from - http://sci2s.ugr.es/keel/category.php?cat=clas
 Thankyou Keel for the datasets..
