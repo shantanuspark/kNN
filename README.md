@@ -22,11 +22,10 @@ distance metric
 
 Output of the program -
 Accuracy vs value of K graph:
-<img src="https://drive.google.com/open?id=0B9GyGROQo3hiQWtoU0FfNlM0aXM" />
+<img src="https://github.com/shantanuspark/kNN/blob/master/accuracy%20vs%20k.png" />
 
-10-fold Cross Validation 
-Accuracy vs iteration graph
-<img src="https://drive.google.com/open?id=0B9GyGROQo3hiMHluTEtkanhpaWM" >
+10-fold Cross Validation, accuracy vs iteration graph:
+<img src="https://github.com/shantanuspark/kNN/blob/master/accuracy%20vs%20iteration.png" >
 
 Refer the README pdf for more detailed steps with screenshots on running the program
 
