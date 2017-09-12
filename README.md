@@ -20,6 +20,14 @@ Highlights of the program :
 distance metric
 5. There is an option to run the program directly using command line arguments besides the command line menu that appears on running the program directly
 
+Output of the program -
+Accuracy vs value of K graph:
+<img src="https://drive.google.com/open?id=0B9GyGROQo3hiQWtoU0FfNlM0aXM" />
+
+10-fold Cross Validation 
+Accuracy vs iteration graph
+<img src="https://drive.google.com/open?id=0B9GyGROQo3hiMHluTEtkanhpaWM" >
+
 Refer the README pdf for more detailed steps with screenshots on running the program
 
 Datasets used from - http://sci2s.ugr.es/keel/category.php?cat=clas
